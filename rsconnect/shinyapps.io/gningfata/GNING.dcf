@@ -1,0 +1,12 @@
+name: GNING
+title: GNING
+username:
+account: gningfata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2178851
+bundleId: 3059752
+url: https://gningfata.shinyapps.io/GNING/
+when: 1587736521.76471
+asMultiple: FALSE
+asStatic: FALSE
